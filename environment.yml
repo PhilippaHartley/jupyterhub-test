@@ -1,0 +1,10 @@
+name: jupyterhub
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - numpy
+  - scipy
+  - matplotlib
+prefix: /Users/p.hartley/anaconda3/envs/jupyterhub
