@@ -7,4 +7,5 @@ dependencies:
   - numpy
   - scipy
   - matplotlib
+  - dask
 prefix: /Users/p.hartley/anaconda3/envs/jupyterhub
